@@ -1,3 +1,3 @@
 # Ryth
 
-Scaffolding for serverless client-cloud-edge projects in Rust & Python
+Digital products to improve life offline.
